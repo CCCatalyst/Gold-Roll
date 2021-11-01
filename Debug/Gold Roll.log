@@ -1,0 +1,3 @@
+﻿  GoldRoll.c
+C:\Users\CatalystCC\source\repos\Gold Roll\GoldRoll.c(16,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Gold Roll.vcxproj -> C:\Users\CatalystCC\source\repos\Gold Roll\Debug\Gold Roll.exe
